@@ -2,7 +2,5 @@
   <action id="Annotate">
     <keyboard-shortcut first-keystroke="alt comma" />
   </action>
-  <action id="ShowSettings">
-    <keyboard-shortcut first-keystroke="ctrl alt released s" />
-  </action>
+  <action id="ShowSettings" />
 </keymap>

@@ -1,4 +1,4 @@
-<keymap version="1" name="GNOME copy" parent="Default for GNOME">
+<keymap version="1" name="siam_keymaps" parent="Default for GNOME">
   <action id="Annotate">
     <keyboard-shortcut first-keystroke="alt comma" />
   </action>

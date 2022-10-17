@@ -4,5 +4,6 @@
   </action>
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="ctrl alt released s" />
+    <keyboard-shortcut first-keystroke="alt s" />
   </action>
 </keymap>

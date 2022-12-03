@@ -18,6 +18,7 @@
   <action id="ShowContent" />
   <action id="ShowSearchHistory" />
   <action id="ShowSettings">
+    <keyboard-shortcut first-keystroke="ctrl alt released s" />
     <keyboard-shortcut first-keystroke="alt s" />
   </action>
   <action id="UsageView.ShowRecentFindUsages" />

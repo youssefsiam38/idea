@@ -1,3 +1,13 @@
 <application>
-  <component name="LocalDatabaseDriverManager" version="201" />
+  <component name="LocalDatabaseDriverManager" version="201">
+    <driver id="mongo">
+      <artifact id="MongoDB" name="MongoDB" use="true" version="1.18" />
+    </driver>
+    <driver id="postgresql">
+      <artifact id="PostgreSQL" name="PostgreSQL" use="true" version="42.6.0" />
+    </driver>
+    <driver id="sqlite.xerial">
+      <artifact id="Xerial SQLiteJDBC" name="Xerial SQLiteJDBC" use="true" version="3.39.2" />
+    </driver>
+  </component>
 </application>

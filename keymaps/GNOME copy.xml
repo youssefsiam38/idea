@@ -1,8 +1,0 @@
-<keymap version="1" name="GNOME copy" parent="Default for GNOME">
-  <action id="Annotate">
-    <keyboard-shortcut first-keystroke="alt comma" />
-  </action>
-  <action id="ShowSettings">
-    <keyboard-shortcut first-keystroke="ctrl alt released s" />
-  </action>
-</keymap>

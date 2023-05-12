@@ -26,16 +26,16 @@
     <keyboard-shortcut first-keystroke="alt s" />
   </action>
   <action id="StepInto">
-    <keyboard-shortcut first-keystroke="f7" />
     <keyboard-shortcut first-keystroke="f7" second-keystroke="ctrl numpad2" />
+    <keyboard-shortcut first-keystroke="ctrl numpad2" />
   </action>
   <action id="StepOut">
-    <keyboard-shortcut first-keystroke="shift f8" />
     <keyboard-shortcut first-keystroke="shift f8" second-keystroke="ctrl numpad3" />
+    <keyboard-shortcut first-keystroke="ctrl numpad3" />
   </action>
   <action id="StepOver">
-    <keyboard-shortcut first-keystroke="f8" />
     <keyboard-shortcut first-keystroke="f8" second-keystroke="ctrl numpad1" />
+    <keyboard-shortcut first-keystroke="ctrl numpad1" />
   </action>
   <action id="UsageView.ShowRecentFindUsages" />
 </keymap>
